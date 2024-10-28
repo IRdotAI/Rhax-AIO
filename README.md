@@ -2,7 +2,7 @@
 
 <html>
 <a href=https://python.org><img src=https://img.shields.io/badge/download_python-3670A0?style=for-the-badge&logo=python&logoColor=white></a>
-<a href=https://discord.gg/PEhWnFcuhq><img src=https://img.shields.io/badge/Discord_Server-3670a0?style=for-the-badge&logo=discord&logoColor=white></a>
+<a href=https://taxhax.webflow.io><img src=https://img.shields.io/badge/Website-3670a0?style=for-the-badge&logo=wikiquote&logoColor=white></a>
 </html>
 
 
