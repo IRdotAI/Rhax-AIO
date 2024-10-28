@@ -10,7 +10,7 @@ def check_update():
     print(f"    [{cyan}>{reset}] Checking for updates")
     
     try:
-        latest_version = get("https://raw.githubusercontent.com/Mickey758/Rhax-AIO/master/version").text.rstrip()
+        latest_version = get("https://raw.githubusercontent.com/IRdotAI/Rhax-AIO/master/version").text.rstrip()
     except:
         print(f"    [{red}>{reset}] Could not connect to server")
         sleep(2)
@@ -18,5 +18,5 @@ def check_update():
     
     if latest_version != version:
         if win32ui.MessageBox(f"Current Version: v{version}\nLatest Version: v{latest_version}\n\nWould you like to be taken to the download page?","Outdated Version", win32con.MB_YESNO) == win32con.IDYES:
-            webbrowser.open(f"https://github.com/Mickey758/Rhax-AIO/releases/tag/v{latest_version}")
+            webbrowser.open(f"https://github.com/IRdotAI/Rhax-AIO/releases/tag/v{latest_version}")
         return
