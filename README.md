@@ -33,6 +33,7 @@ Check the modules list [here](https://github.com/IRdotAI/Rhax-AIO/blob/master/MO
 
 # Other Info
 Development of this this project will continue. I will be updating the binary and source regularly. Bug reports will be nice to have. If you find any post them [here](https://github.com/IRdotAI/Rhax-AIO/issues/new). Thanks for checking this out.
+![image](https://github.com/user-attachments/assets/8056b8c0-e1fe-4ddd-be06-6e3343b1d601)
 
 ## Credits
 Give credits if you are going to use the code
