@@ -186,7 +186,7 @@ if __name__ == "__main__":
     ascii()
     
     set_title('Info')
-    message_box('Creator Info',f'Discord: {discord_name}\nPatched.to: AbrasiveTax49\nGithub: IRdotAI\nWebsite: https://taxhax.webflow.io Free To Report Bugs & Request Modules',0)
+    message_box('Creator Info',f'Discord: .rdota.\nPatched.to: AbrasiveTax49\nGithub: IRdotAI\nWebsite: https://taxhax.webflow.io Free To Report Bugs & Request Modules',0)
     
     check_update()
     home()
