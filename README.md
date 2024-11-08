@@ -1,4 +1,4 @@
-# Rhax AIO 
+# <h1 align="center">Rhax AIO</h1>
 
 ![RHAX](https://github.com/user-attachments/assets/4b9738a6-5294-4bde-8a22-1655594d9197)
 
